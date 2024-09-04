@@ -160,14 +160,14 @@ body{
     height: 100vh;
     width: 100%;
 }
-.welcome_title{
+.pages_title{
     position: relative;
     margin: auto;
     font-size: 25px;
     padding-top: 120px;
     text-align: center;
 }
-.welcome_line{
+.pages_title_line{
     position: absolute;
     width: 60px;
     height: 4px;
@@ -482,7 +482,7 @@ body{
 /* /////////////////////////////////////////////////////////////////////////////section_6 ( numbers ) ////////////////////////////////////////////////////////// */
 .numbers{
     position: relative;
-    background-image: url(../images/background_home.jpg);
+    background-image: url(../images/numbers_background.jpg);
     height: 350px;
     background-size: cover;
     background-attachment: fixed;
@@ -604,7 +604,7 @@ body{
     width: 100%;
     height: 350px;
     position: relative;
-    background-image: url(../images/background_home.jpg);
+    background-image: url(../images/info_background.jpg);
     background-attachment: fixed;
     background-size: cover;
 }
